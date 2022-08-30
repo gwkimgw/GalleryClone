@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Myongji Gallery</string>
+    <string name="email">Email...</string>
+    <string name="password">Password...</string>
+    <string name="email_login">Sign In by Email</string>
+    <string name="image_description">Image Description</string>
+    <string name="upload_photo">Add Photo</string>
+    <string name="upload_success">Upload Success</string>
+</resources>
